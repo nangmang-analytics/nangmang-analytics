@@ -1,16 +1,22 @@
-## Hi there 👋
+# Nang Mang
+Data Analyst | SQL | Excel | Power BI | Python
 
-<!--
-**nangmang-analytics/nangmang-analytics** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+U.S. Marine veteran transitioning into data analytics.  
+Focused on business intelligence, data analysis, and operational insights.
 
-Here are some ideas to get you started:
+## Featured Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Retail Sales SQL Analysis
+SQL data analysis project exploring retail sales performance using PostgreSQL.
+
+### Superstore Sales Dashboard
+Excel project using PivotTables, Power Query, and dashboards to analyze retail sales performance.
+
+## Skills
+SQL (PostgreSQL)  
+Excel (PivotTables, XLOOKUP, SUMIFS)  
+Power BI  
+Python (pandas)
+
+## Current Focus
+Building real-world data analysis projects and pursuing entry-level Data Analyst roles.
